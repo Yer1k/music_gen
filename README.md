@@ -1,2 +1,5 @@
-# music_gen
-Emotion-Conditioned Music Generation with Transformer GANs 
+# Emotion-Conditioned Music Generation with Transformer GANs 
+
+
+#### Project Members: Chloe Liu, Emma Wang, Dingkun Yang
+
